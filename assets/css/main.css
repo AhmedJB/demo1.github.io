@@ -2573,6 +2573,7 @@ button:hover {
 
 	dl {
 		margin: 0 0 2em 0;
+		text-align: justify;
 	}
 
 		dl dt {
